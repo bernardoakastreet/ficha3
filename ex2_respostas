@@ -1,0 +1,3 @@
+2.1) Quando é recebido o sinal SIGTERM, o programa ex2 não termina, e é encaminhado para o handler, enquanto que o do ex1 termina
+
+2.2) O programa termina com o SIGUSR1
